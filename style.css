@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #D5E1EF;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    border-radius: 20px;
+    background-color: #fff;
+    width: 288px;
+    padding: 1rem;
+}
+
+.qr-code-img {
+    border-radius: 20px;
+    width: 288px;
+    height: 288px;
+}
+
+.heading {
+    color: #1F314F;
+    text-align: center;
+}
+
+.text {
+    color: #7D889E;
+    font-size: 0.9375rem;
+    text-align: center;
+}
